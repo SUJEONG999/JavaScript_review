@@ -240,15 +240,15 @@ http://localhost:8000/edu/jsexam/exercise1.html
 
 파일명 : exercise1.html
 1. 다음 값들을 저장하여 배열을 생성한다.
-  10, 5, 7,21, 4, 8, 18
+    10, 5, 7,21, 4, 8, 18
 
 2. 모든 원소 값들을 더하여 다음 형식으로 HTML 첫 번째 제목 크기(<h1>)로
-  출력한다.(document.write())
-  모든 원소의 합 : XX
+    출력한다.(document.write())
+    모든 원소의 합 : XX
 
 3. 최대값과 최소값을 구해서 순서없는 리스트 형식(<ul>)으로 출력한다.
-   최대값 : XX
-   최소값 : XX
+     최대값 : XX
+     최소값 : XX
 
   
 
@@ -406,7 +406,7 @@ https://www.w3schools.com/jsref/jsref_sort.asp
 
 http://localhost:8000/edu/jsexam/exam12.html
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -454,7 +454,7 @@ function f1()  : () 괄호 생략 불가
 
 http://localhost:8000/edu/jsexam/exam13.html
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
